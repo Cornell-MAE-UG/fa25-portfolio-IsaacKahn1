@@ -30,22 +30,22 @@ image: /assets/images/radio-machine-cad.jpg
 
   <figure>
     <img src="/assets/images/systemillustration.png" alt="System Illustration">
-    <figcaption>System illustration</figcaption>
+    <figcaption>Illustration of turbine</figcaption>
   </figure>
 
   <figure>
     <img src="/assets/images/systemcrosssection.png" alt="System Cross Section">
-    <figcaption>System cross-section</figcaption>
+    <figcaption>Illustration of full turbine system</figcaption>
   </figure>
 
   <figure>
     <img src="/assets/images/systemdrawing.png" alt="System Drawing">
-    <figcaption>Engineering drawing</figcaption>
+    <figcaption>Engineering drawing of Turbine</figcaption>
   </figure>
 
   <figure>
     <img src="/assets/images/systemphoto.png" alt="System Photo">
-    <figcaption>Photograph of the system</figcaption>
+    <figcaption>Photograph of the Rankine Turbine Hall</figcaption>
   </figure>
 
 </div>
