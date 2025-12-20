@@ -13,7 +13,7 @@ image: /assets/images/radio-machine-cad.jpg
 
 **Isaac Kahn, Bridget McAvoy, Deepti Kousik**  
 **ENGRD 2210**  
-**11/24/2025**
+**12/18/2025**
 
 ---
 
