@@ -26,13 +26,10 @@ image: /assets/images/radio-machine-cad.jpg
 
 ## System Images
 
-Overall diagram of the generation station:
 <br>
 <img src="{{ "/assets/images/systemcrosssection.png" | relative_url }}" alt="System Diagram of Niagara Falls Turbines" width="48%" class="center-image">
 <br>
-Schematics for analysis:
-<br>
-<img src="{{ "/assets/images/systemdiagram.png" | relative_url }}" width="48%" alt="Turbine" class="center-image">
+<img src="{{ "/assets/images/systemillustration.png" | relative_url }}" width="48%" alt="Turbine" class="center-image">
 <img src="{{ "/assets/images/systemdrawing.png" | relative_url }}" width="48%" alt="Flow Path Visualization" class="center-image">
 <img src="{{ "/assets/images/systemphoto.png" | relative_url }}" width="48%" alt="Flow Path Visualization" class="center-image">
 
@@ -49,9 +46,8 @@ First, the river was diverted into a forebay. Then, it flowed through penstocks 
 ## System Diagram
 
 <!-- System diagram image -->
-![System diagram placeholder](/assets/images/systemdiagram.png)
-*Caption: Niagara Falls turbine system schematic*
-
+<br>
+<img src="{{ "/assets/images/systemdiagram.png" | relative_url }}" alt="System Diagram of Niagara Falls Turbines" width="48%" class="center-image">
 ---
 
 ## Physical Equations
