@@ -24,11 +24,31 @@ image: /assets/images/radio-machine-cad.jpg
 
 ## Photos & Schematics
 
-<img src="{{ "/assets/images/systemillustration.png" | relative_url }}" width="48%" alt="Niagara Falls Power Station Overview">
-<img src="{{ "/assets/images/systemdrawing.png" | relative_url }}" width="48%" alt="Niagara Falls Turbine Diagram">
-<img src="{{ "/assets/images/systemcrosssection.png" | relative_url }}" width="48%" alt="Interior of Power Station">
-<img src="{{ "/assets/images/thermo/systemphoto.png" | relative_url }}" width="48%" alt="Historical Power Station View">
----
+## System Images
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.5rem;">
+
+  <figure>
+    <img src="/assets/images/systemillustration.png" alt="System Illustration">
+    <figcaption>System illustration</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/assets/images/systemcrosssection.png" alt="System Cross Section">
+    <figcaption>System cross-section</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/assets/images/systemdrawing.png" alt="System Drawing">
+    <figcaption>Engineering drawing</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/assets/images/systemphoto.png" alt="System Photo">
+    <figcaption>Photograph of the system</figcaption>
+  </figure>
+
+</div>
 
 ## Qualitative Description
 
