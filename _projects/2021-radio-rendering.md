@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Radio CAD Rendering
-description: Advanced CAD Project
-technologies: [Autodesk Fusion]
+title: Thermodynamic Analysis of the Rankine Power Station
+description: Thermo Project
+technologies: 
 image: /assets/images/radio-machine-cad.jpg
 ---
 
