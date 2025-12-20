@@ -26,29 +26,16 @@ image: /assets/images/radio-machine-cad.jpg
 
 ## System Images
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.5rem;">
+Overall diagram of the generation station:
+<br>
+<img src="{{ "/assets/images/systemcrosssection.png" | relative_url }}" alt="System Diagram of Niagara Falls Turbines" width="48%" class="center-image">
+<br>
+Schematics for analysis:
+<br>
+<img src="{{ "/assets/images/systemdiagram.png" | relative_url }}" width="48%" alt="Turbine" class="center-image">
+<img src="{{ "/assets/images/systemdrawing.png" | relative_url }}" width="48%" alt="Flow Path Visualization" class="center-image">
+<img src="{{ "/assets/images/systemphoto.png" | relative_url }}" width="48%" alt="Flow Path Visualization" class="center-image">
 
-  <figure>
-    <img src="/assets/images/systemillustration.png" alt="System Illustration">
-    <figcaption>Illustration of turbine</figcaption>
-  </figure>
-
-  <figure>
-    <img src="/assets/images/systemcrosssection.png" alt="System Cross Section">
-    <figcaption>Illustration of full turbine system</figcaption>
-  </figure>
-
-  <figure>
-    <img src="/assets/images/systemdrawing.png" alt="System Drawing">
-    <figcaption>Engineering drawing of Turbine</figcaption>
-  </figure>
-
-  <figure>
-    <img src="/assets/images/systemphoto.png" alt="System Photo">
-    <figcaption>Photograph of the Rankine Turbine Hall</figcaption>
-  </figure>
-
-</div>
 
 ## Qualitative Description
 
