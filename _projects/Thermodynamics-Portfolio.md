@@ -24,18 +24,10 @@ image: /assets/images/radio-machine-cad.jpg
 
 ## Photos & Schematics
 
-<!-- Image 1 -->
-![Insert image description here](/assets/images/your-image-1.jpg)
-*Caption: Add caption or source here*
-
-<!-- Image 2 -->
-![Insert image description here](/assets/images/your-image-2.jpg)
-*Caption: Add caption or source here*
-
-<!-- Image 3 -->
-![Insert image description here](/assets/images/your-image-3.jpg)
-*Caption: Add caption or source here*
-
+<img src="{{ "/assets/images/systemillustration.png" | relative_url }}" width="48%" alt="Niagara Falls Power Station Overview">
+<img src="{{ "/assets/images/systemdrawing.png" | relative_url }}" width="48%" alt="Niagara Falls Turbine Diagram">
+<img src="{{ "/assets/images/systemcrosssection.png" | relative_url }}" width="48%" alt="Interior of Power Station">
+<img src="{{ "/assets/images/thermo/systemphoto.png" | relative_url }}" width="48%" alt="Historical Power Station View">
 ---
 
 ## Qualitative Description
@@ -50,12 +42,10 @@ First, the river was diverted into a forebay. Then, it flowed through penstocks 
 ## System Diagram
 
 <!-- System diagram image -->
-![System diagram placeholder](/assets/images/system-diagram.jpg)
+![System diagram placeholder](/assets/images/systemdiagram.png)
 *Caption: Niagara Falls turbine system schematic*
 
 ---
-
-## Physical Equations
 
 ## Physical Equations
 
